@@ -1,2 +1,4 @@
 # StockNex - SCRUM Demo
 ## ILSI 4A Project - Agile Methodology
+\n## Sprint 1: MVP Core (01-15 Nov 2025)
+### Authentication System
