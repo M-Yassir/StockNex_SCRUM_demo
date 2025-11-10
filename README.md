@@ -4,3 +4,5 @@
 ### Authentication System
 ### SP500 Dashboard
 ### Watchlist Management
+\n## Bug Fixes
+- Fixed password validation for special characters (@, #, $)
