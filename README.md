@@ -8,3 +8,4 @@
 - Fixed password validation for special characters (@, #, $)
 \n## Sprint 2 Features
 ### AI Price Predictions (LSTM Model)
+### Admin Dashboard
