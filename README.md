@@ -9,3 +9,7 @@
 \n## Sprint 2 Features
 ### AI Price Predictions (LSTM Model)
 ### Admin Dashboard
+\n### Charting Improvements
+- Fixed Y-axis scaling for low-price stocks (< 0)
+- Implemented adaptive scaling based on price range
+- Added price format detection (absolute vs percentage)
