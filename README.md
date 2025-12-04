@@ -13,3 +13,8 @@
 - Fixed Y-axis scaling for low-price stocks (< 0)
 - Implemented adaptive scaling based on price range
 - Added price format detection (absolute vs percentage)
+\n## Sprint 3: Finalization (01-15 Dec 2025)
+### TradingView Widget Integration
+- Interactive technical charts
+- Multiple timeframes (1D, 1W, 1M)
+- 50+ technical indicators
