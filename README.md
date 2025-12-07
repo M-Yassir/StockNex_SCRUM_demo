@@ -18,3 +18,7 @@
 - Interactive technical charts
 - Multiple timeframes (1D, 1W, 1M)
 - 50+ technical indicators
+### Market Performance Heatmap
+- Visual sector performance
+- Color-coded daily changes
+- Interactive hover details
