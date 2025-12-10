@@ -22,3 +22,7 @@
 - Visual sector performance
 - Color-coded daily changes
 - Interactive hover details
+### Docker Compose Deployment
+- Multi-service containerization
+- Frontend (Next.js), Backend (Express), ML API (FastAPI)
+- PostgreSQL database with volumes
