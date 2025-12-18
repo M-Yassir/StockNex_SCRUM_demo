@@ -4,3 +4,4 @@ This repository demonstrates the SCRUM workflow for the StockNex project.
 - **US-1**: Authentication system
 - **US-2**: SP500 Dashboard
 - **US-3**: Watchlist functionality
+\n\n# Jira Integration Test
