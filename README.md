@@ -13,6 +13,8 @@
 - Fixed Y-axis scaling for low-price stocks (< 0)
 - Implemented adaptive scaling based on price range
 - Added price format detection (absolute vs percentage)
+## Bug Fixes
+- Fixed prediction chart Y-axis scaling wrong for stocks under $10
 ## Sprint 3: Finalization (1-15 Dec 2025)
 ### TradingView Widget Integration
 - Interactive technical charts
